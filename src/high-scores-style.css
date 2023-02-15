@@ -1,0 +1,6 @@
+.button {
+    -fx-color: black;
+    -fx-text-fill: white;
+    -fx-min-width: 100px;
+    -fx-min-height: 20px;
+}

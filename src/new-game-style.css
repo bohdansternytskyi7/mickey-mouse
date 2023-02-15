@@ -1,0 +1,25 @@
+.root {
+    -fx-background-color: black;
+    -fx-background-image: url("./img/background.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 900px 600px;
+    -fx-background-position: center center;
+}
+
+.egg {
+    visibility: visible;
+    -fx-scale-x: 1.8;
+    -fx-scale-y: 1.8;
+}
+
+.egg .hide {
+    visibility: hidden;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.label {
+    -fx-label-padding: 20;
+}

@@ -1,0 +1,13 @@
+.root {
+    -fx-background-color: #482639;
+}
+
+.button {
+    -fx-color: black;
+    -fx-text-fill: white;
+    -fx-min-width: 200px;
+}
+
+.grid-pane {
+    -fx-alignment: center;
+}
